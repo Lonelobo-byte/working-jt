@@ -18,7 +18,7 @@
         <language>en</language>
         <platform>all</platform>
         <license>MIT</license>
-        <source>https://github.com/Lonelobo-byte/plugin.video.jiotv</source>
+        <source>https://github.com/Lonelobo-byte/working-jt</source>
             <disclaimer>This plugin is not officially commissioned/supported by Jio. The trademark "Jio" is registered by "Reliance Corporate IT Park Limited (RCITPL)"</disclaimer>
         <assets>
             <icon>resources/icon.png</icon>
